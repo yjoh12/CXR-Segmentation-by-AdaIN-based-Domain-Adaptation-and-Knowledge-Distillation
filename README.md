@@ -20,6 +20,7 @@ We provide links for public CXR datasets, which are used in our paper.
 These CXR datasets are available by downloading in below links.
 
 JSRT (Normal)                 http://db.jsrt.or.jp/eng.php
+
 SCR (Mask)                    https://www.isi.uu.nl/Research/Databases/SCR/download.php
 
 NLM (Normal)                  http://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33
