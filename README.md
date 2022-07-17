@@ -10,8 +10,8 @@ This is the Github repository for "CXR-Segmentation-by-AdaIN-based-Domain-Adapta
 -------
 # Instructions
 1. v641ccc2 : Initial update for training the network 
-2. (To be updated) : Learned parameter
-3. (To be updated) : Code for testing the network
+2. v8b7f5e9 : Code for testing the network
+3. (To be updated) : Network parameter release
 
 
 -------
