@@ -1,7 +1,7 @@
 # CXR-Segmentation-by-AdaIN-based-Domain-Adaptation-and-Knowledge-Distillation
 -------
 
-<img width="80%" src="https://user-images.githubusercontent.com/47205899/179411032-909de7f8-ff95-4ed7-bf61-89c1107fd932.png)"/>
+<img width="80%" src="https://user-images.githubusercontent.com/47205899/179411032-909de7f8-ff95-4ed7-bf61-89c1107fd932.png"/>
 
 # Summary
 This is the Github repository for "CXR-Segmentation-by-AdaIN-based-Domain-Adaptation-and-Knowledge-Distillation".
