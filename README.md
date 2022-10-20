@@ -11,7 +11,7 @@ This is the Github repository for "CXR-Segmentation-by-AdaIN-based-Domain-Adapta
 # Instructions
 1. v641ccc2 : Initial update for training the network 
 2. v8b7f5e9 : Update code for testing the network
-3. (To be updated) : Update pre-trained network parameter
+3. (To be updated) : Update pre-trained network parameter and evaluation code
 
 
 -------
@@ -32,6 +32,12 @@ Cohen (Pneumonia)             https://github.com/ieee8023/covid-chestxray-datase
 BIMCV (COVID-19 Pneumonia)    http://academictorrents.com/details/ac786f74878a5775c81d490b23842fd4736bfe33
 
 BRIXIA (COVID-19 Pneumonia)   https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/
+
+
+-------
+# Pre-trained model
+Download the checkpoints from the below Google Drive repository to directory expr/
+https://drive.google.com/drive/folders/10CbZinWVsmzOFa0KmbyzuQ3HQo7R9Y98?usp=sharing
 
 
 -------
